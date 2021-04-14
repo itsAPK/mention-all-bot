@@ -29,4 +29,4 @@ Mention all users in group
 
 BTC : <code>3Lq4hmncqnL7nWei4nZ3urZCLdQ3HBQVBc</code><br>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)]
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
