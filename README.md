@@ -2,23 +2,23 @@
 Mention all users in group
 
 
-#Deployment
+# Deployment
 
 <b> Linux </b><br>
 
 1.Clone this respo<br><br>
 
-<pre>git clone https://github.com/itsAPK/telegram-auto-kicker-bot </pre><br>
+<pre>git clone https://github.com/itsAPK/mention-all-bot </pre><br>
 
 2.Open respo directory<br>
 
-<pre>cd telegram-auto-kicker-bot </pre><br>
+<pre>cd mention-all-bot </pre><br>
 
 3.Install Requirements<br>
 
 <pre>pip3 install -r requirements.txt</pre><br>
 
-4.Rename <code>.env.sampale</code> to <code>.env</code> and fill <code>TELEGRAM_BOT_TOKEN</code>, <code>TELEGRAM_API_ID</code>, <code>TELEGRAM_API_HASH</code><br>
+4.Rename <code>.env.sampale</code> to <code>.env</code> and fill requirements <br>
 
 5.Run the script<br>
 
