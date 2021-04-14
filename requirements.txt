@@ -1,0 +1,15 @@
+async-lru==1.0.2
+certifi==2020.12.5
+chardet==4.0.0
+greenlet==1.0.0
+idna==2.10
+pyaes==1.6.1
+Pyrogram==1.2.8
+pyromod==1.5
+PySocks==1.7.1
+pyTelegramBotAPI==3.7.7
+python-dotenv==0.17.0
+requests==2.25.1
+SQLAlchemy==1.4.7
+TgCrypto==1.2.2
+urllib3==1.26.4
